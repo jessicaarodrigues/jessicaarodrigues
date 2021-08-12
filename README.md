@@ -19,10 +19,5 @@
   <img align="center" alt="Jessica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
-  ##
-  
-  <div>
-   ![Snake animation](https://github.com/jessicaarodrigues/jessicaarodrigues/blob/output/github-contribution-grid-snake.svg)
-  </div>
   
 
