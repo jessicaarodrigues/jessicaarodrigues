@@ -2,9 +2,9 @@
 
 
 - 🔭 Atualmente trabalho como professora de inglês
-- 🌱 Estou aprendendo Java e Angular em um Bootcamp da DIO
+- 🌱 Estou aprendendo Java por conta própria
 - 📫 Contate-me no https://www.linkedin.com/in/jessica-alexandra/
-- 😄 Pronomes: ela/dela/she/her
+- 🚻 Pronomes: ela/dela/she/her
 
 <div>
   <a href="https://github.com/jessicaarodrigues">
