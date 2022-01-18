@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como professora de inglês
-- 🌱 Estou aprendendo Java por conta própria
+- 🌱 Estou aprendendo Java por conta própria e Javascript na 4ª edição do ioasys Camp
 - 📫 Contate-me no https://www.linkedin.com/in/jessica-alexandra/
 - 🚻 Pronomes: ela/dela/she/her
 
