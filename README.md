@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Jessica Rodrigues
 
 
-- 🔭 Atualmente como desenvolvedora Salesforce
+- 🔭 Atualmente trabalho como administradora Salesforce
 - 🌱 Estou me aprimorando em Salesforce cada dia mais e pretendo retomar meu estudos de Java
 - 📫 Contate-me no https://www.linkedin.com/in/jessica-alexandra/
 - 🚻 Pronomes: ela/dela/she/her
